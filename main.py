@@ -124,7 +124,7 @@ def send_message():
     <footer class="footer">
         <p>&copy; 2023 STONE Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
-        <p>Made with ♥ by <a href="https://github.com/fytr44">
+        <p>Made with ♥ by <a href="https://github.com/fytr4438">
 ⎯꯭̽🌱꯭♡aryan☯🖤⎯꯭̽⟶꯭</a></p>
     </footer>
 
